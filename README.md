@@ -3,7 +3,8 @@
 A JavaScript approximation of [Python's `range` type](https://docs.python.org/3/library/stdtypes.html#range).
 
 1. [Creating a new instance](#creating-a-new-instance)
-2. [Instance methods](#instance-methods)
+2. [Instance properties](#instance-properties)
+3. [Instance methods](#instance-methods)
 
 ## Creating a new instance
 
