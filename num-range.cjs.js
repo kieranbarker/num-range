@@ -1,4 +1,4 @@
-/*! NumRange v1.0.0 | (c) 2022 Kieran Barker | MIT License | https://github.com/kieranbarker/num-range */
+/*! NumRange v1.0.1 | (c) 2022 Kieran Barker | MIT License | https://github.com/kieranbarker/num-range */
 module.exports = exports = class NumRange {
 	constructor({ start = 0, stop = undefined, step = 1 } = {}) {
 		if (typeof stop == "undefined") {

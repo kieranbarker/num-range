@@ -1,6 +1,6 @@
 {
 	"name": "@kieranbarker/num-range",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A JavaScript approximation of Python's range type.",
 	"main": "num-range.cjs.js",
 	"module": "num-range.esm.js",
