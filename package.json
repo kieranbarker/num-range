@@ -1,0 +1,32 @@
+{
+	"name": "@kieranbarker/num-range",
+	"version": "1.0.0",
+	"description": "A JavaScript approximation of Python's range type.",
+	"main": "num-range.cjs.js",
+	"module": "num-range.esm.js",
+	"scripts": {
+		"test": "jest --coverage"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kieranbarker/num-range.git"
+	},
+	"keywords": [
+		"python",
+		"python3",
+		"range"
+	],
+	"author": {
+		"name": "Kieran Barker",
+		"email": "kieran@barker.codes",
+		"url": "https://barker.codes"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kieranbarker/num-range/issues"
+	},
+	"homepage": "https://github.com/kieranbarker/num-range#readme",
+	"devDependencies": {
+		"jest": "^29.2.2"
+	}
+}
